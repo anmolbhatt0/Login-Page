@@ -11,9 +11,9 @@
 		<li><h1>Admin Login</h1></li>
 		<form method="post" action="login.php">
 			<li><p>Username</p></li>
-			<li><input type="text" name="Username" placeholder=" Enter Username"></li>
+			<li><input type="text" name="Username" placeholder=" Please Enter Username"></li>
 			<li><p>Password</p></li>
-			<li><input type="password" name="Password" placeholder="Enter Password"></li>
+			<li><input type="password" name="Password" placeholder="Please Enter Password"></li>
 			<input type="submit" value="Login" class="b">
 		</form>
 	</ul>
